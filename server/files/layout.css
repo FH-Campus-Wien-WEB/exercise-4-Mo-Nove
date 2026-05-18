@@ -1,39 +1,48 @@
 @import url(base.css);
 
 h1 {
-  font-size: 200%;
-  margin: 8px 0px;
+  font-size: 220%;
+  margin: 12px 0px;
 }
 
-html,
-body {
+html, body {
   margin: 0px;
   height: 100vh;
 }
 
-/* The nav's header and button list will be centered */
 nav {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: #1a1a1a;
+  padding-top: 16px;
+  border-right: 1px solid #333;
 }
 
 ul {
   margin-top: 0px;
-  padding: 2px;
+  padding: 8px;
   list-style-type: none;
+  width: 90%;
 }
 
 body {
   display: grid;
   grid-template-rows: 92px auto 64px;
-  grid-template-columns: 192px auto;
+  grid-template-columns: 220px auto;
   grid-template-areas: "h h" "n m" "f f";
   margin: 0;
 }
 
 header {
   grid-area: h;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1a1a;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+  z-index: 10;
 }
 
 nav {
@@ -47,12 +56,16 @@ main {
 
 footer {
   grid-area: f;
+  background-color: #1a1a1a;
+  border-top: 1px solid #333;
+  display: flex;
+  align-items: center;
 }
 
 nav > ul {
   display: flex;
   flex-direction: column;
-  row-gap: 4px;
+  row-gap: 8px;
 }
 
 footer > ul {
@@ -60,21 +73,29 @@ footer > ul {
   flex-direction: row;
   column-gap: 16px;
   justify-content: center;
+  width: 100%;
 }
 
 article h2 {
-  margin-bottom: 0px;
+  margin-bottom: 4px;
+  color: #aaa;
+  font-size: 1.1em;
 }
 
-/* navigation buttons have full width */
 nav button {
   width: 100%;
 }
 
 img {
   border-radius: 12px;
+  max-width: 100%;
 }
 
 a {
-  color: beige;
+  color: #ff9800;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }

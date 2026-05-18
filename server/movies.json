@@ -1,35 +1,120 @@
 {
   "joe": {
-    "tt0399295": {
-      "imdbID": "tt0399295",
-      "Title": "Lord of War",
-      "Released": "2005-09-15",
-      "Runtime": 122,
+    "tt0120812": {
+      "Title": "Rush Hour",
+      "Released": "18 Sep 1998",
+      "Runtime": 98,
+      "Plot": "A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZiMzViNmEtNTNlZi00MzFmLTk5NTEtNDE2OTUzNmNlMTY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 61,
+      "imdbRating": 7,
       "Genres": [
-        "Crime",
-        "Drama"
+        "Action",
+        "Comedy",
+        "Crime"
       ],
       "Directors": [
-        "Andrew Niccol"
+        "Brett Ratner"
       ],
       "Writers": [
-        "Andrew Niccol"
+        "Ross LaManna",
+        "Jim Kouf"
       ],
       "Actors": [
-        "Nicolas Cage",
-        "Ethan Hawke",
-        "Jared Leto"
+        "Jackie Chan",
+        "Chris Tucker",
+        "Ken Leung"
       ],
-      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 62,
-      "imdbRating": 7.6
+      "imdbID": "tt0120812"
+    },
+    "tt0266915": {
+      "Title": "Rush Hour 2",
+      "Released": "03 Aug 2001",
+      "Runtime": 90,
+      "Plot": "Carter and Lee head to Hong Kong for a vacation, but become embroiled in a counterfeit money scam.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGM0OTM4NGYtYzkzMC00OGZmLWEwZTItOTg4ZTdkYTIxOTc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 48,
+      "imdbRating": 6.7,
+      "Genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "Directors": [
+        "Brett Ratner"
+      ],
+      "Writers": [
+        "Ross LaManna",
+        "Jeff Nathanson"
+      ],
+      "Actors": [
+        "Jackie Chan",
+        "Chris Tucker",
+        "John Lone"
+      ],
+      "imdbID": "tt0266915"
+    },
+    "tt0293564": {
+      "Title": "Rush Hour 3",
+      "Released": "10 Aug 2007",
+      "Runtime": 91,
+      "Plot": "After an attempted assassination on Ambassador Han, Lee and Carter head to Paris to protect a French woman with knowledge of the Triads' secret leaders.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA0Nzg5NjQ0MDBeQTJeQWpwZ15BbWU3MDE4Mzg5NDE@._V1_SX300.jpg",
+      "Metascore": 44,
+      "imdbRating": 6.3,
+      "Genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "Directors": [
+        "Brett Ratner"
+      ],
+      "Writers": [
+        "Jeff Nathanson",
+        "Ross LaManna"
+      ],
+      "Actors": [
+        "Jackie Chan",
+        "Chris Tucker",
+        "Max von Sydow"
+      ],
+      "imdbID": "tt0293564"
+    },
+    "tt1645170": {
+      "Title": "The Dictator",
+      "Released": "16 May 2012",
+      "Runtime": 83,
+      "Plot": "The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2IwMDM3ZmQtNjQ3NS00OTFiLWI5YzEtYWE3YjI5NTk3YzkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 58,
+      "imdbRating": 6.5,
+      "Genres": [
+        "Comedy"
+      ],
+      "Directors": [
+        "Larry Charles"
+      ],
+      "Writers": [
+        "Sacha Baron Cohen",
+        "Alec Berg",
+        "David Mandel"
+      ],
+      "Actors": [
+        "Sacha Baron Cohen",
+        "Anna Faris",
+        "John C. Reilly"
+      ],
+      "imdbID": "tt1645170"
     },
     "tt0167260": {
-      "imdbID": "tt0167260",
       "Title": "The Lord of the Rings: The Return of the King",
-      "Released": "2003-12-16",
+      "Released": "17 Dec 2003",
       "Runtime": 201,
+      "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 94,
+      "imdbRating": 9,
       "Genres": [
         "Adventure",
         "Drama",
@@ -48,37 +133,87 @@
         "Viggo Mortensen",
         "Ian McKellen"
       ],
-      "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 94,
-      "imdbRating": 9
+      "imdbID": "tt0167260"
     },
-    "tt0057261": {
-      "imdbID": "tt0057261",
-      "Title": "Lord of the Flies",
-      "Released": "1963-08-12",
-      "Runtime": 92,
+    "tt0120737": {
+      "Title": "The Lord of the Rings: The Fellowship of the Ring",
+      "Released": "19 Dec 2001",
+      "Runtime": 178,
+      "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "Metascore": 92,
+      "imdbRating": 8.9,
       "Genres": [
         "Adventure",
         "Drama",
-        "Thriller"
+        "Fantasy"
       ],
       "Directors": [
-        "Peter Brook"
+        "Peter Jackson"
       ],
       "Writers": [
-        "William Golding",
-        "Peter Brook"
+        "J.R.R. Tolkien",
+        "Fran Walsh",
+        "Philippa Boyens"
       ],
       "Actors": [
-        "James Aubrey",
-        "Tom Chapin",
-        "Hugh Edwards"
+        "Elijah Wood",
+        "Ian McKellen",
+        "Orlando Bloom"
       ],
-      "Plot": "Schoolboys marooned on a Pacific island create their own savage civilization.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 67,
-      "imdbRating": 6.9
+      "imdbID": "tt0120737"
+    },
+    "tt5323662": {
+      "Title": "A Silent Voice: The Movie",
+      "Released": "17 Sep 2016",
+      "Runtime": 130,
+      "Plot": "A deaf girl, Shoko, is bullied by the popular Shoya. As Shoya continues to bully Shoko, the class turns its back on him. Shoko transfers and Shoya grows up as an outcast. Alone and depressed, the regretful Shoya finds Shoko to mak...",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 78,
+      "imdbRating": 8.2,
+      "Genres": [
+        "Animation",
+        "Drama"
+      ],
+      "Directors": [
+        "Naoko Yamada"
+      ],
+      "Writers": [
+        "Yoshitoki Ôima",
+        "Reiko Yoshida"
+      ],
+      "Actors": [
+        "Miyu Irino",
+        "Saori Hayami",
+        "Aoi Yûki"
+      ],
+      "imdbID": "tt5323662"
+    },
+    "tt5311514": {
+      "Title": "Your Name.",
+      "Released": "07 Apr 2017",
+      "Runtime": 106,
+      "Plot": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 81,
+      "imdbRating": 8.4,
+      "Genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Makoto Shinkai"
+      ],
+      "Writers": [
+        "Makoto Shinkai"
+      ],
+      "Actors": [
+        "Ryûnosuke Kamiki",
+        "Mone Kamishiraishi",
+        "Ryo Narita"
+      ],
+      "imdbID": "tt5311514"
     }
   },
   "jane": {
@@ -137,35 +272,304 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 81,
       "imdbRating": 7.2
+    }
+  },
+  "nove": {
+    "tt32820897": {
+      "imdbID": "tt32820897",
+      "Title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "Released": "",
+      "Runtime": 155,
+      "Plot": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ3YWUzYjEtMTJiYy00ZjQ0LWI0YjktYjhiNGVhNGExYTM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 67,
+      "imdbRating": 8.4,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "Directors": [
+        "Haruo Sotozaki",
+        "Hikaru Kondô"
+      ],
+      "Writers": [
+        "Koyoharu Gotouge",
+        "Hikaru Kondô"
+      ],
+      "Actors": [
+        "Zach Aguilar",
+        "Saeko Akiho",
+        "Yôhei Azakami"
+      ]
     },
-    "tt0110357": {
-      "imdbID": "tt0110357",
-      "Title": "The Lion King",
-      "Released": "1994-06-23",
-      "Runtime": 88,
+    "tt0120812": {
+      "Title": "Rush Hour",
+      "Released": "18 Sep 1998",
+      "Runtime": 98,
+      "Plot": "A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZiMzViNmEtNTNlZi00MzFmLTk5NTEtNDE2OTUzNmNlMTY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 61,
+      "imdbRating": 7,
+      "Genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "Directors": [
+        "Brett Ratner"
+      ],
+      "Writers": [
+        "Ross LaManna",
+        "Jim Kouf"
+      ],
+      "Actors": [
+        "Jackie Chan",
+        "Chris Tucker",
+        "Ken Leung"
+      ],
+      "imdbID": "tt0120812"
+    },
+    "tt0266915": {
+      "Title": "Rush Hour 2",
+      "Released": "03 Aug 2001",
+      "Runtime": 90,
+      "Plot": "Carter and Lee head to Hong Kong for a vacation, but become embroiled in a counterfeit money scam.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGM0OTM4NGYtYzkzMC00OGZmLWEwZTItOTg4ZTdkYTIxOTc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 48,
+      "imdbRating": 6.7,
+      "Genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "Directors": [
+        "Brett Ratner"
+      ],
+      "Writers": [
+        "Ross LaManna",
+        "Jeff Nathanson"
+      ],
+      "Actors": [
+        "Jackie Chan",
+        "Chris Tucker",
+        "John Lone"
+      ],
+      "imdbID": "tt0266915"
+    },
+    "tt0293564": {
+      "Title": "Rush Hour 3",
+      "Released": "10 Aug 2007",
+      "Runtime": 91,
+      "Plot": "After an attempted assassination on Ambassador Han, Lee and Carter head to Paris to protect a French woman with knowledge of the Triads' secret leaders.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA0Nzg5NjQ0MDBeQTJeQWpwZ15BbWU3MDE4Mzg5NDE@._V1_SX300.jpg",
+      "Metascore": 44,
+      "imdbRating": 6.3,
+      "Genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "Directors": [
+        "Brett Ratner"
+      ],
+      "Writers": [
+        "Jeff Nathanson",
+        "Ross LaManna"
+      ],
+      "Actors": [
+        "Jackie Chan",
+        "Chris Tucker",
+        "Max von Sydow"
+      ],
+      "imdbID": "tt0293564"
+    },
+    "tt1645170": {
+      "Title": "The Dictator",
+      "Released": "16 May 2012",
+      "Runtime": 83,
+      "Plot": "The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2IwMDM3ZmQtNjQ3NS00OTFiLWI5YzEtYWE3YjI5NTk3YzkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 58,
+      "imdbRating": 6.5,
+      "Genres": [
+        "Comedy"
+      ],
+      "Directors": [
+        "Larry Charles"
+      ],
+      "Writers": [
+        "Sacha Baron Cohen",
+        "Alec Berg",
+        "David Mandel"
+      ],
+      "Actors": [
+        "Sacha Baron Cohen",
+        "Anna Faris",
+        "John C. Reilly"
+      ],
+      "imdbID": "tt1645170"
+    },
+    "tt5323662": {
+      "Title": "A Silent Voice: The Movie",
+      "Released": "17 Sep 2016",
+      "Runtime": 130,
+      "Plot": "A deaf girl, Shoko, is bullied by the popular Shoya. As Shoya continues to bully Shoko, the class turns its back on him. Shoko transfers and Shoya grows up as an outcast. Alone and depressed, the regretful Shoya finds Shoko to mak...",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 78,
+      "imdbRating": 8.2,
       "Genres": [
         "Animation",
-        "Adventure",
         "Drama"
       ],
       "Directors": [
-        "Roger Allers",
-        "Rob Minkoff"
+        "Naoko Yamada"
       ],
       "Writers": [
-        "Irene Mecchi",
-        "Jonathan Roberts",
-        "Linda Woolverton"
+        "Yoshitoki Ôima",
+        "Reiko Yoshida"
       ],
       "Actors": [
-        "Matthew Broderick",
-        "Jeremy Irons",
-        "James Earl Jones"
+        "Miyu Irino",
+        "Saori Hayami",
+        "Aoi Yûki"
       ],
-      "Plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 88,
-      "imdbRating": 8.5
+      "imdbID": "tt5323662"
+    },
+    "tt0795461": {
+      "Title": "Scary Movie 5",
+      "Released": "12 Apr 2013",
+      "Runtime": 86,
+      "Plot": "A couple begin to experience some unusual activity after bringing their lost nieces and nephew home. With the help of home-surveillance cameras, they learn they're being stalked by a nefarious demon.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTIxMjQ4NF5BMl5BanBnXkFtZTcwOTAyNDcyOQ@@._V1_SX300.jpg",
+      "Metascore": 11,
+      "imdbRating": 3.6,
+      "Genres": [
+        "Comedy"
+      ],
+      "Directors": [
+        "Malcolm D. Lee",
+        "David Zucker"
+      ],
+      "Writers": [
+        "David Zucker",
+        "Pat Proft",
+        "Shawn Wayans"
+      ],
+      "Actors": [
+        "Simon Rex",
+        "Ashley Tisdale",
+        "Charlie Sheen"
+      ],
+      "imdbID": "tt0795461"
+    },
+    "tt27047903": {
+      "Title": "Scream 7",
+      "Released": "27 Feb 2026",
+      "Runtime": 114,
+      "Plot": "When a new Ghostface killer emerges in the town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzk2YzRjYmItNTA5Mi00ODczLTljYzUtOWE1ZDFkODhlZWJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 35,
+      "imdbRating": 5.5,
+      "Genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "Directors": [
+        "Kevin Williamson"
+      ],
+      "Writers": [
+        "Kevin Williamson",
+        "Guy Busick",
+        "James Vanderbilt"
+      ],
+      "Actors": [
+        "Neve Campbell",
+        "Courteney Cox",
+        "Isabel May"
+      ],
+      "imdbID": "tt27047903"
+    },
+    "tt0120737": {
+      "Title": "The Lord of the Rings: The Fellowship of the Ring",
+      "Released": "19 Dec 2001",
+      "Runtime": 178,
+      "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "Metascore": 92,
+      "imdbRating": 8.9,
+      "Genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Peter Jackson"
+      ],
+      "Writers": [
+        "J.R.R. Tolkien",
+        "Fran Walsh",
+        "Philippa Boyens"
+      ],
+      "Actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Orlando Bloom"
+      ],
+      "imdbID": "tt0120737"
+    },
+    "tt11378946": {
+      "Title": "Michael",
+      "Released": "24 Apr 2026",
+      "Runtime": 127,
+      "Plot": "The early life of the famous musician Michael Jackson, known as the King of Pop.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 39,
+      "imdbRating": 7.7,
+      "Genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "Directors": [
+        "Antoine Fuqua"
+      ],
+      "Writers": [
+        "John Logan"
+      ],
+      "Actors": [
+        "Jaafar Jackson",
+        "Nia Long",
+        "Colman Domingo"
+      ],
+      "imdbID": "tt11378946"
+    },
+    "tt11032374": {
+      "Title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+      "Released": "23 Apr 2021",
+      "Runtime": 117,
+      "Plot": "After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado's journey as a demon slayer began. Tanjiro and his comrades embark on a new mission aboard the Mugen Train, on track to despair.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEzYjhkYTctMWNmZS00MTc5LWI4OWUtZjFkNzNkYTNkMTJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 72,
+      "imdbRating": 8.2,
+      "Genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "Directors": [
+        "Haruo Sotozaki"
+      ],
+      "Writers": [
+        "Koyoharu Gotouge"
+      ],
+      "Actors": [
+        "Natsuki Hanae",
+        "Akari Kitô",
+        "Yoshitsugu Matsuoka"
+      ],
+      "imdbID": "tt11032374"
     }
   }
 }
